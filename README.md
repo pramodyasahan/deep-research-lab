@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 🧠 Deep Research Lab
 
 **Deep Research Lab** is an AI-powered research assistant that automates deep web research, report generation, and email delivery — all orchestrated using LLM agents. It helps you turn any query into a full-length report backed by automated web search and structured summarization.
@@ -19,7 +18,6 @@
 
 ## 📁 Project Structure
 
-```
 
 ## 🛠️ Setup Instructions
 
